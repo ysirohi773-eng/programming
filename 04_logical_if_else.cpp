@@ -9,10 +9,10 @@ if(a>15 && a<50)
 
 }
 else {
-    cout<<"sex";
+    cout<<"false";
 }
  int b;
- cout << "\nENTER A NUMBER ";
+ cout << "ENTER A NUMBER ";
  cin>>b;
  if(b>20||b<30)
  { 
