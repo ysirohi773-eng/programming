@@ -10,7 +10,6 @@ int arr[5][5]={
     {21,22,23,24,25}
 };
 
-
 int top = 0;
 int bottom = 4;
 int left = 0;
@@ -44,7 +43,6 @@ for (int i = bottom; i >= top; i--)
 }
 left++;
 }
-
 
       }
 
