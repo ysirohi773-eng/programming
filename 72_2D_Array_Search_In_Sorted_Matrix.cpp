@@ -10,7 +10,7 @@ int arr[5][5] =
     {10, 13, 14, 17, 24},
     {18, 21, 23, 26, 30}
 };
-int target = 17;
+int target = 23;
 int row = 0;
 int coloum = 4;
 
@@ -32,6 +32,7 @@ int coloum = 4;
        
         row++;
     }
+
   }
     
 
